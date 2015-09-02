@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Very simple Yeoman nw.js app generator.",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "nw.js",
+    "nwjs",
+    "node-webkit"
   ],
   "author": "Jason Stallings",
   "license": "MIT",
