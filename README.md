@@ -1,6 +1,6 @@
 # generator-easynwjs
 
-> A generator for a basic nw.js app, powered by [Yeoman](http://yeoman.io).
+> Generator for a basic [NW.js](http://nwjs.io/) app, powered by [Yeoman](http://yeoman.io).
 
 ## Getting Started
 
@@ -11,16 +11,22 @@ You will need:
 Now install the generator:
 
 ```
-npm install -g generator-easynwjs
+$ npm install -g generator-easynwjs
 ```
 
 In your *empty* project folder, run:
 
 ```
-yo easynwjs
+$ yo easynwjs
 ```
 
-Then input your app's name and an `index.html` and `package.json` file will be generated. 
+Input your app's name at the prompt:
+
+```
+? What is your apps's name? (My App)
+```
+
+Then the files `index.html` and `package.json` will be generated.
 
 ## License
 
